@@ -1,1 +1,32 @@
-
+{
+    "Products":
+    [   
+        {
+            "id":"p1",
+            "pname":"Iphone 13 pro",
+            "image":"images/gsnop.JPG",
+            "price":"129999",
+            "BeforePrice":"139999",
+            "rating":"4"
+            
+        },
+        {
+            "id":"p2",
+            "pname":"poco F4 5G",
+            "image":"images/gsnop.JPG",
+            "price":"27999",
+            "BeforePrice":"29999",
+            "rating":"4"
+            
+        },
+        {
+            "id":"p3",
+            "pname":"infinix note 12 pro",
+            "image":"images/gsnop.JPG",
+            "price":"16999",
+            "BeforePrice":"19999",
+            "rating":"4"
+            
+        }
+    ]
+}
