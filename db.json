@@ -1,32 +1,29 @@
-{
-    "Products":
     [   
         {
-            "id":"p1",
+            "id":1,
             "pname":"Iphone 13 pro",
-            "image":"images/gsnop.JPG",
+            "image":"https://www.reliancedigital.in/medias/Apple-iphone-13-Pro-Smart-phone-Contentset-24?context=bWFzdGVyfGltYWdlc3w3NTIyfGltYWdlL2pwZWd8aW1hZ2VzL2hkMC9oNzYvOTYzNDMyNjY3NTQ4Ni5qcGd8OTMzYWFiMjFkODVhN2M4Njg0MjgxODI1NmE3MjlhODZmYmQwNDgxNTc4NzE5ZWM2NTdmYTc1NmQzMTI5ZDlkNA",
             "price":"129999",
             "BeforePrice":"139999",
             "rating":"4"
             
         },
         {
-            "id":"p2",
+            "id":2,
             "pname":"poco F4 5G",
-            "image":"images/gsnop.JPG",
+            "image":"https://www.reliancedigital.in/medias/Apple-iphone-13-Pro-Smart-phone-Contentset-24?context=bWFzdGVyfGltYWdlc3w3NTIyfGltYWdlL2pwZWd8aW1hZ2VzL2hkMC9oNzYvOTYzNDMyNjY3NTQ4Ni5qcGd8OTMzYWFiMjFkODVhN2M4Njg0MjgxODI1NmE3MjlhODZmYmQwNDgxNTc4NzE5ZWM2NTdmYTc1NmQzMTI5ZDlkNA",
             "price":"27999",
             "BeforePrice":"29999",
             "rating":"4"
             
         },
         {
-            "id":"p3",
+            "id":3,
             "pname":"infinix note 12 pro",
-            "image":"images/gsnop.JPG",
+            "image":"https://www.reliancedigital.in/medias/Apple-iphone-13-Pro-Smart-phone-Contentset-24?context=bWFzdGVyfGltYWdlc3w3NTIyfGltYWdlL2pwZWd8aW1hZ2VzL2hkMC9oNzYvOTYzNDMyNjY3NTQ4Ni5qcGd8OTMzYWFiMjFkODVhN2M4Njg0MjgxODI1NmE3MjlhODZmYmQwNDgxNTc4NzE5ZWM2NTdmYTc1NmQzMTI5ZDlkNA",
             "price":"16999",
             "BeforePrice":"19999",
             "rating":"4"
             
         }
     ]
-}
